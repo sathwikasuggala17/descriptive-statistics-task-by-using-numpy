@@ -1,1 +1,1 @@
-# descriptive-statistics-task-by-using-numpy
+# descriptive statistics task by using numpy
